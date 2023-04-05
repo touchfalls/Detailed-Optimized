@@ -1,4 +1,4 @@
-# Detailed Optimized is designed to deliver a new gaming experience with the highest levels of FPS and texture quality.
+Detailed Optimized is designed to deliver a new gaming experience with the highest levels of FPS and texture quality.
 
 I can confidently state that this is a well optimised modpack in terms of performance at the moment.
 
