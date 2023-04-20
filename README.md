@@ -1,4 +1,3 @@
-# Detailed optimized
 
 Welcome to the Detailed optimized wiki! 
 
