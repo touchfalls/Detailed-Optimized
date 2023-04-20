@@ -1,0 +1,13 @@
+name = "Detailed Optimized"
+author = "lazcode"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a5cffa79c7fc1baa9cec5c03ae19a8a8f7e45cf5c90efbdd9fed31c67408a19f"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.4"
