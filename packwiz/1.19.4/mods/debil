@@ -1,0 +1,378 @@
+name = "LambDynamicLights"
+filename = "lambdynamiclights-2.3.0+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/7Cx8p05b/lambdynamiclights-2.3.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "f6e1621f9ee31263919b75af6d6851089c355b02"
+
+[update]
+[update.modrinth]
+mod-id = "yBW8D80W"
+version = "7Cx8p05b"
+
+name = "Language Reload"
+filename = "language-reload-1.5.5+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/Uw1vYocE/language-reload-1.5.5%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "263f9a551974ddd3a1331468680b482bc56e0ff8"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "Uw1vYocE"
+
+name = "Lithium"
+filename = "lithium-fabric-mc1.19.4-0.11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/14hWYkog/lithium-fabric-mc1.19.4-0.11.1.jar"
+hash-format = "sha1"
+hash = "69aa137957af4f0f701f6a7663c6d8646f84a1cc"
+
+[update]
+[update.modrinth]
+mod-id = "gvQqBUqZ"
+version = "14hWYkog"
+
+name = "Memory Leak Fix"
+filename = "memoryleakfix-fabric-1.17+-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/PtXTwQt6/memoryleakfix-fabric-1.17%2B-1.0.0.jar"
+hash-format = "sha1"
+hash = "899018ccd70447efe2f198701aeb52bd5eed7c12"
+
+[update]
+[update.modrinth]
+mod-id = "NRjRiSSD"
+version = "PtXTwQt6"
+
+name = "Model Gap Fix"
+filename = "modelfix-1.10-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/i0mERlxq/modelfix-1.10-fabric.jar"
+hash-format = "sha1"
+hash = "fd52ec87add371140066fc3ae95d68c83f8a6ee5"
+
+[update]
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "i0mERlxq"
+
+name = "Mod Menu"
+filename = "modmenu-6.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/yjjsLqbS/modmenu-6.2.1.jar"
+hash-format = "sha1"
+hash = "e87ca1aa589c1d706830856ee1632d99adacacbf"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "yjjsLqbS"
+
+name = "No Chat Reports"
+filename = "NoChatReports-FABRIC-1.19.4-v2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/UB0mRick/NoChatReports-FABRIC-1.19.4-v2.1.1.jar"
+hash-format = "sha1"
+hash = "09129a9ad265b60776e18169993ef917535f4ba7"
+
+[update]
+[update.modrinth]
+mod-id = "qQyHxfxd"
+version = "UB0mRick"
+
+name = "No Fade"
+filename = "nofade-1.18-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "76951fe09b742ba0ca07acc7c54e4c3760157071"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3550935
+project-id = 452768
+release-channel = "beta"
+
+name = "Numeral Ping"
+filename = "numeralping-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XLd8Sh64/versions/G57flILg/numeralping-1.2.0.jar"
+hash-format = "sha1"
+hash = "0f56ae6c15fe3835d324a374a3280d66c1c9deb2"
+
+[update]
+[update.modrinth]
+mod-id = "XLd8Sh64"
+version = "G57flILg"
+
+name = "Reese's Sodium Options"
+filename = "reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/aO0hSGlL/reeses_sodium_options-1.5.0%2Bmc1.19.4-build.72.jar"
+hash-format = "sha1"
+hash = "2e34574b591b4daddcc59f9c588bccdb2b69227d"
+
+[update]
+[update.modrinth]
+mod-id = "Bh37bMuy"
+version = "aO0hSGlL"
+
+name = "Simple Voice Chat"
+filename = "voicechat-fabric-1.19.4-2.4.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/sckft84h/voicechat-fabric-1.19.4-2.4.4.jar"
+hash-format = "sha1"
+hash = "cc0d1c73b40ee64c27f7170cfaf7a580ede94a70"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "sckft84h"
+
+name = "Sodium"
+filename = "sodium-fabric-mc1.19.4-0.4.10+build.24.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar"
+hash-format = "sha1"
+hash = "b060680929d7a6d130fb980a9f9907461df05fa1"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "b4hTi3mo"
+
+name = "Sodium Extra"
+filename = "sodium-extra-0.4.18+mc1.19.4-build.100.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/YknbqkHe/sodium-extra-0.4.18%2Bmc1.19.4-build.100.jar"
+hash-format = "sha1"
+hash = "7e6d64f8a5ac5a64be79547e4a9a7d21e9f5597f"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "YknbqkHe"
+
+name = "Starlight (Fabric)"
+filename = "starlight-1.1.1+fabric.ae22326.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar"
+hash-format = "sha1"
+hash = "de6fe932555604345477db89b59d59249909c640"
+
+[update]
+[update.modrinth]
+mod-id = "H8CaAYZC"
+version = "qH1xCwoC"
+
+name = "Visuality"
+filename = "visuality-0.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rI0hvYcd/versions/8YMUO06d/visuality-0.7.0.jar"
+hash-format = "sha1"
+hash = "359dc8a0e0b8d44ddf5d797729a6cbbe5da4d512"
+
+[update]
+[update.modrinth]
+mod-id = "rI0hvYcd"
+version = "8YMUO06d"
+
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/51iCmuDG/YetAnotherConfigLib-2.4.1.jar"
+hash-format = "sha1"
+hash = "68e18b57211ca8cceb9b7c84872cf2e1402c6414"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "51iCmuDG"
+
+name = "Zoomify"
+filename = "Zoomify-2.9.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar"
+hash-format = "sha1"
+hash = "f53f08dccb4c6ee6f5f082d361ba0057bfcd1bbb"
+
+[update]
+[update.modrinth]
+mod-id = "w7ThoJFB"
+version = "mIiMyney"
+
+name = "Borderless Mining"
+filename = "borderless-mining-1.1.7+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/n8nRcdvu/borderless-mining-1.1.7%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "25160d941e60eccf683163d516cdcd5164a2f89f"
+
+[update]
+[update.modrinth]
+mod-id = "kYq5qkSL"
+version = "n8nRcdvu"
+
+name = "Cloth Config API"
+filename = "cloth-config-10.0.96-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar"
+hash-format = "sha1"
+hash = "9bd3ad20afbcd4622d194853aa8e03c4f9d9050f"
+
+[update]
+[update.modrinth]
+mod-id = "9s6osm5g"
+version = "6XGTNEII"
+
+name = "Continuity"
+filename = "continuity-3.0.0-beta.2+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "229057727abf35e0469527b94d84d96e1770c156"
+
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "4h5IIa7B"
+
+name = "Debugify"
+filename = "Debugify-1.19.4+2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/oevI3RPR/Debugify-1.19.4%2B2.1.jar"
+hash-format = "sha1"
+hash = "9c77d3447900cde75345c9522c94862b4eed569f"
+
+[update]
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "oevI3RPR"
+
+name = "EntityCulling"
+filename = "entityculling-fabric-1.6.2-mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/UvJN5Cy4/entityculling-fabric-1.6.2-mc1.19.4.jar"
+hash-format = "sha1"
+hash = "3a9381229408afa9d2c7d7e3fad017e5079ab20c"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "UvJN5Cy4"
+
+name = "Fabric API"
+filename = "fabric-api-0.78.0+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/unERf4ZJ/fabric-api-0.78.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "3e8df96145957b37ea547e523654f7319ea6a921"
+
+[update]
+[update.modrinth]
+mod-id = "P7dR8mSH"
+version = "unERf4ZJ"
+
+name = "Fabric Language Kotlin"
+filename = "fabric-language-kotlin-1.9.3+kotlin.1.8.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/MkcO8aQ0/fabric-language-kotlin-1.9.3%2Bkotlin.1.8.20.jar"
+hash-format = "sha1"
+hash = "2a3d3f8aa263ba7748550a94e97cf760712bc2c6"
+
+[update]
+[update.modrinth]
+mod-id = "Ha28R6CL"
+version = "MkcO8aQ0"
+
+name = "FerriteCore"
+filename = "ferritecore-5.2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar"
+hash-format = "sha1"
+hash = "ed6fa9a9365d4e58db6703479a44cc6aed5add2f"
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "RbR7EG8T"
+
+name = "Indium"
+filename = "indium-1.0.15+mc1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/qqiFL8NF/indium-1.0.15%2Bmc1.19.4.jar"
+hash-format = "sha1"
+hash = "5391112f63ca8d07b370759da8480a8aafe0d483"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "qqiFL8NF"
+
+name = "Iris Shaders"
+filename = "iris-mc1.19.4-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar"
+hash-format = "sha1"
+hash = "6fc8ea409fb248721701272e66d2c3bea283f94a"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "347HlKZS"
