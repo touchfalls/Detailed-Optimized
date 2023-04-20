@@ -2,7 +2,7 @@
 
 Welcome to the Detailed optimized wiki! 
 
-**[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
+**[📜 List of included mods](https://github.com/lazcod3/Detailed-Optimized/blob/main/INCLUDED-MODS.md)**
 
 [🖼️ Resource packs to work](resource-pack-issues.md)
 
