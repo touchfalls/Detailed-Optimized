@@ -1,6 +1,3 @@
-theme: minimal
-Welcome to the Detailed optimized wiki! 
-
 **[📜 List of included mods](https://github.com/lazcod3/Detailed-Optimized/blob/main/INCLUDED-MODS.md)**
 
 
